@@ -5,5 +5,5 @@
     'types': [javascript]
     args: ["-i"]
     require_serial: false
-    additional_dependencies: ["import-sort-cli@2.3.0"]
+    additional_dependencies: ["import-sort-cli@2.4.0-alpha.33c2ea46"]
     minimum_pre_commit_version: '0'
